@@ -14,7 +14,7 @@ A Dataset for **Evaluating Retrieval-Augmented Generation Across Documents**
 
 **1. For Retrieval**
 
-Please try '**simple_retrieval.py**,' a sample use case demonstrating retrieval using this dataset. 
+Please try '**fin_meta.py**,' a sample use case demonstrating retrieval using this dataset. 
 ```
 pip install llama-index==0.9.40
 ```
